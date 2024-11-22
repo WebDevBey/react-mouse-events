@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cards {
+  display: flex;
+  gap: 10px;
+}
+
+.card {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgb(134, 161, 186);
+}
